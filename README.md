@@ -1,5 +1,5 @@
-###🍥 Hi, I'm Vitória Lilian 
-Welcome to my GitHub profile.
+🍥 Hi, I'm Vitória Lilian <br>
+Welcome to my GitHub profile. <br>
 I'm a web developer student, currently learning frontend developement.
 
 ### 💻 Technologies & tools
