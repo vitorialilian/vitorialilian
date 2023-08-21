@@ -5,6 +5,7 @@
 
 Welcome to my GitHub profile. 
 - 🌱 I'm a FullStack developer student.
+- Desenvolvedora Full Stack | HTML5 | CSS3| JavaScript | Git | Node.js
 
 
 ### 💻 Technologies and tools i'm learning:
