@@ -4,8 +4,8 @@
 <img align="right" width="300px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/127898471/235783526-7249a358-3db0-443b-bc58-8db1f6624b82.png"> 
 
 Welcome to my GitHub profile. 
-- 🌱 I'm a FullStack developer student.
-- Desenvolvedora Full Stack | HTML5 | CSS3| JavaScript | Git | Node.js
+- I'm a FullStack developer student.
+- Full Stack | Back-end | Front-end | HTML5 | CSS3| JavaScript | Git | Node.js
 
 
 ### 💻 Technologies and tools i'm learning:
