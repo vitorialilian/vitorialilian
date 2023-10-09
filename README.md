@@ -5,11 +5,13 @@
 
 Iniciei minha jornada nos estudos de programação em março de 2023, e tem sido desafiador, mas repleto de aprendizados que me motivam e impulsionam minha vontade de buscar aprimorar ainda mais as habilidades e conhecimentos que adquiri até o momento e constantemente me desafiar a aprender novas tecnologias. Estou sempre em busca de recursos de aprendizado, como cursos online, tutoriais e projetos práticos que me permitam consolidar meu conhecimento e desenvolver minhas habilidades de programação. Estou animada com as possibilidades futuras e acredito que estou no caminho certo para me desenvolver como programadora.
 
-Tenho estudado HTML, CSS, Javascript(Node e Express) e iniciando meus estudos em MongoDB.
+Tenho estudado HTML, CSS, Javascript(Node e Express) e iniciando meus estudos em MongoDB e PostgreSQL.
 
 ### 💻 Tecnologias e ferramentas que estou aprendendo:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>
+          
           
           
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorialilian&show_icons=true&theme=transparent) 
